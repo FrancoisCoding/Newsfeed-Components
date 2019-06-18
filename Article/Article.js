@@ -26,4 +26,7 @@ class Article {
 
 */
 
-let articles;
+//let articles = document.getElementsByClassName("article");
+//articles.forEach(function(article){
+//    return new Article(article);
+//})
